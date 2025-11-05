@@ -1,0 +1,15 @@
+# Vial port for Hot Dox v2
+
+The JSON was copied from
+https://github.com/the-via/keyboards/blob/master/src/hotdox76v2/hotdox76v2.json
+and had the 3 vial-ignored lines removed and the "lighting" line moved to follow
+the example in the
+[vial porting guide - Create JSON](https://get.vial.today/docs/porting-to-via.html).
+
+TODO: I have not tested this JSON file in Vial yet as I do not have it installed
+on this computer.
+
+Steps 1 through 5 of the
+[second page - Port to Vial](https://get.vial.today/docs/porting-to-vial.html)
+have been faithfully followed, thus the keymap.c file in this folder is for now
+identical to the one in the default keymap for hotdox76v2 in this repository.
