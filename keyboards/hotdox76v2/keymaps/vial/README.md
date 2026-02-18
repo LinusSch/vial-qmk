@@ -5,9 +5,7 @@ https://github.com/the-via/keyboards/blob/master/src/hotdox76v2/hotdox76v2.json
 and had the 3 vial-ignored lines removed and the "lighting" line moved to follow
 the example in the
 [vial porting guide - Create JSON](https://get.vial.today/docs/porting-to-via.html).
-
-TODO: I have not tested this JSON file in Vial yet as I do not have it installed
-on this computer.
+This JSON file has been dummy loaded in Vial 0.7.5 with no apparent problems.
 
 Steps 1 through 5 of the
 [second page - Port to Vial](https://get.vial.today/docs/porting-to-vial.html)
